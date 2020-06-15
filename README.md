@@ -1,6 +1,6 @@
 # Plagiarism Detector with AWS Sagemaker
 
-This repository contains the Plagiarism Detector Project for Udacity Machine Learning Engineer Nanodegree. It contains the jupyter notebooks and python files of the model and training.
+This repository contains the Plagiarism Detector Project for Udacity Machine Learning Engineer Nanodegree. It contains the jupyter notebooks and python files for feature engineering, and model training.
 
 ### Project Details
 
